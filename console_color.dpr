@@ -1,4 +1,4 @@
-program Project1;
+program console_color;
 
 {$APPTYPE CONSOLE}
 
